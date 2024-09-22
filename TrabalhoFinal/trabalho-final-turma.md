@@ -17,8 +17,10 @@ Por exemplo:
 
 Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
-## Reportar bug (0)
+## Reportar bug (2)
 
+* Foi aberta uma [issue]([https://github.com/mauricioaniche/ck/issues/19](https://github.com/hydralauncher/hydra/issues/880)) para reportar um bug no ao executar a ferramenta Hydra Launcher.
+* Foi feito o [issue]([https://github.com/okkur/syna/pull/573](https://github.com/Anish-M-code/pqcrypt/issues/20#issuecomment-2306482366)) sobre a necessidade da tradução PT-BR do readme do PQcrypts.
 
 ## Melhorar documentação (0)
 
@@ -58,14 +60,15 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Adicionar grande funcionalidade (4)
 
 
-
 *  Adição de fonte de dados(Extensão MangaCan) indiana. ([PR #3113](https://github.com/keiyoushi/extensions-source/pull/3113) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 * Adição de fonte de dados (Extensão  Manga Terra) para falantes da lingua portuguesa. ([PR #2300](https://github.com/keiyoushi/extensions-source/pull/2300) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 * Adição de fonte de dados (Extensão LadronCorps) para falantes de espanhol. ([PR #3367](https://github.com/keiyoushi/extensions-source/pull/3367) - [Chopper(daniel-rocha)](https://github.com/choppeh));
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
-## Desenvolver estudo original com artigo sobre software livre (0)
+## Desenvolver estudo original com artigo sobre software livre (3)
 
 *Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
+* Foi feito um artigo (https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing) sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.
+* Foi feito um artigo de opinião (https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing) sobre o tema  Hydra Launcher: Consequeências sobre o Uso da Pirataria.
 
