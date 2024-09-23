@@ -87,11 +87,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 ## Desenvolver estudo original com artigo sobre software livre (9)
 
 * Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
-=======
- GabrielLeite2004-patch-1
-* Foi feito um artigo (https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing) sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.
-* Foi feito um artigo de opinião (https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing) sobre o tema Hydra Launcher: Consequeências sobre o Uso da Pirataria.
-=======
+
+* Foi feito um artigo sobre o tema Desmistificando o Software Livre: O Que Você Precisa Saber.[GabrielLeite2004](https://docs.google.com/document/d/1tvW9RR1dEYARSKVN9DEYFbcYwxfTLM3p2UNdCsWnYMM/edit?usp=sharing)
+* Foi feito um artigo de opinião sobre o tema Hydra Launcher: Consequeências sobre o Uso da Pirataria. [GabrielLeite2004](https://docs.google.com/document/d/1kJaHgDDClOBYXZzt2TRzg9RwxOQYnYVDqYPIRVhaRzI/edit?usp=sharing)
+
 * Artigo sobre o uso do software livre na robótica educacional (["Software Livre como solução acessível para Robótica Educacional"](https://docs.google.com/document/d/1aQ4AGAZd1Fes1iDZ3i9-NjSuKq0S4O-Q/edit?usp=sharing&ouid=106948913235379296191&rtpof=true&sd=true) - Joniel Costa e [Regiana Cruz](https://github.com/RegianaBarbosa)).
 =======
 * Foi feito estudo original com artigo sobre software livre como alternativa ao monopólio tecnológico [@DanielMoura](https://github.com/DanielLieblen/SoftwareLivre2024-1/blob/main/TrabalhoFinal/DanielMoura.md).
